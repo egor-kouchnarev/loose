@@ -1,1 +1,1 @@
-# loose
+# resources
