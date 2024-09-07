@@ -1,10 +1,10 @@
 #!/usr/bin/env zsh
 
 # Check if domain argument is provided
-if [ -z "$1" ]; then
-  echo "Usage: $0 <domain>"
-  exit 1
-fi
+# if [ -z "$1" ]; then
+#  echo "Usage: $0 <domain>"
+#  exit 1
+# fi
 
 DOMAIN=$1
 
